@@ -96,3 +96,5 @@ server <- function(input, output) {
 }
 
 shinyApp(ui = ui, server = server)
+
+# shiny::runGitHub("dannysuh518-hw2", "usfviz")
